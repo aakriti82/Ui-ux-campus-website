@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Tech Talk: AI in 2025",
+    "category": "Academic",
+    "date": "2025-01-15",
+    "description": "Explore the future of AI with guest speakers."
+  },
+  {
+    "id": 2,
+    "title": "Campus Football Tournament",
+    "category": "Sports",
+    "date": "2025-01-18",
+    "description": "Join the inter-department football challenge!"
+  },
+  {
+    "id": 3,
+    "title": "Open Mic Night",
+    "category": "Music",
+    "date": "2025-01-20",
+    "description": "Showcase your talent or enjoy the performances."
+  },
+  {
+    "id": 4,
+    "title": "Startup Fair 2025",
+    "category": "Academic",
+    "date": "2025-01-25",
+    "description": "Network with student entrepreneurs and investors."
+  }
+]
